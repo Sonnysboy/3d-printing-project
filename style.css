@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.backgroundimage {
+	background-image: url("3d_printer_main_page.jpg");
+	/* width: 100%; */
+	/* background-size: cover; */
+}
